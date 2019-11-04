@@ -55,7 +55,7 @@ normative:
         org: Independent
   OPRF:
     title: Oblivious Pseudorandom Functions (OPRFs) using Prime-Order Groups
-    target: https://tools.ietf.org/html/draft-irrf-cfrg-voprf-01
+    target: https://tools.ietf.org/html/draft-irtf-cfrg-voprf-01
     authors:
       -
         ins: A. Davidson
