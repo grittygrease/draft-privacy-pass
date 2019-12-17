@@ -778,7 +778,7 @@ accepting redemption tokens from the server. If a server has updated the
 registry with many unexpired keys, or in very quick intervals a client can
 choose to reject the tokens.
 
-TODO: Can client's flag bad server practices?
+TODO: Can clients flag bad server practices?
 
 ### Large numbers of issuers {#issuers}
 
