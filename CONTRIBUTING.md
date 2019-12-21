@@ -20,7 +20,7 @@ subject to a Simplified BSD License) in Contributions.
 ## Other Resources
 
 Discussion of this work occurs on the
-[pass working group mailing list](https://mailarchive.ietf.org/arch/browse/pass/)
+[pass working group mailing list](https://mailarchive.ietf.org/arch/browse/privacy-pass/)
 ([subscribe](https://www.ietf.org/mailman/listinfo/pass)).  In addition to
 contributions in GitHub, you are encouraged to participate in discussions there.
 
