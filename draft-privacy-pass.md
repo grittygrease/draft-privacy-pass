@@ -105,7 +105,7 @@ the reputation of a client in latency-sensitive communication.
 
 The Privacy Pass protocol was initially introduced as a mechanism for
 authorizing clients that had already been authorized in the past, without
-compromizing their privacy {{DGSTV18}}. This document seeks to standardize the
+compromising their privacy {{DGSTV18}}. This document seeks to standardize the
 usage and parametrization of the protocol.
 
 The Internet performance company Cloudflare has already implemented server-side
